@@ -51,13 +51,13 @@ Barta-app
    php artisan serve
    ```
 7. Registration info
-   ...bash
+   ```bash
    hasan@gmail.com
-   ...
+   ```
    password
-    ...bash
+   ```bash
    password
-   ...
+   ```
 
 ## Technologies
 
