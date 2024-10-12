@@ -50,6 +50,14 @@ Barta-app
    ```bash
    php artisan serve
    ```
+7. Registration info
+   ...bash
+   hasan@gmail.com
+   ...
+   password
+    ...bash
+   password
+   ...
 
 ## Technologies
 
